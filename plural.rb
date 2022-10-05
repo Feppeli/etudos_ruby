@@ -5,3 +5,5 @@ class String
 end
 
 puts "obj".plural
+
+# AQUI FOI UTILIZADO A CLASSE ABERTA PARA UTILIZAR A FUNÇÃO COM POO
